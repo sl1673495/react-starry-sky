@@ -22,9 +22,7 @@ import './styles/index.css';
 
 const Demo = () => (
   <Starry className="wrapper">
-    <div>
-      SSH 💕 WYQ
-    </div>
+    SSH 💕 WYQ
   </Starry>
 );
 
