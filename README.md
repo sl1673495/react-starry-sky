@@ -1,7 +1,7 @@
 # React Starry Sky
-### introduction
+### Introduction
 a lovely and easy-to-use React background component develop for my girlfriend!💕
-### usage
+### Usage
 ```
 npm i react-starry-sky -S
 ```
@@ -26,7 +26,7 @@ const Demo = () => (
 ReactDOM.render(<Demo />, window.document.getElementById('app'));
 ```
 
-### preview
+### Preview
 https://sl1673495.github.io/react-starry-sky/
 
 ### Development
