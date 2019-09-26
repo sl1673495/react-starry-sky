@@ -7,8 +7,8 @@ npm i react-starry-sky -S
 
 ```css
 .wrapper {
-	position: relative;
-	height: 100vh;
+  position: relative;
+  height: 100vh;
 }
 ```
 
