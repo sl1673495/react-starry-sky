@@ -16,7 +16,7 @@ npm i react-starry-sky -S
 ```js
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Starry from '../lib';
+import Starry from 'react-starry-sky';
 
 import './styles/index.css';
 
