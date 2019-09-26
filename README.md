@@ -1,4 +1,4 @@
-# React Starred Sky
+# React Starry Sky
 
 ## preview
 
