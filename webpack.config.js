@@ -5,7 +5,7 @@ const autoprefixer = require('autoprefixer');
 const path = require('path');
 
 const ENV = process.env.NODE_ENV || 'development';
-const ASSET_PATH = process.env.ASSET_PATH || '/';
+const ASSET_PATH = process.env.ASSET_PATH || '';
 const IS_PROD = ENV === 'production';
 
 const SOURCE_DIR = path.resolve(__dirname, 'demo');
