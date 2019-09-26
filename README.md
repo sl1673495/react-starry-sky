@@ -1,5 +1,5 @@
 # React Starry Sky
-### introduce
+### introduction
 a lovely and easy-to-use React background component develop for my girlfriend!💕
 ### usage
 ```
