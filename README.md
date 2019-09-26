@@ -1,5 +1,6 @@
 # React Starry Sky
-
+### introduce
+a lovely and easy-to-use React background component develop for my girlfriend!💕
 ### usage
 ```
 npm i react-starry-sky -S
