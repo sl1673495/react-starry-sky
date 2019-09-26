@@ -1,6 +1,7 @@
-# React Starred Sky
+# React Starry Sky
 
 ## preview
+https://sl1673495.github.io/react-starry-sky/
 
 ### Development
 
